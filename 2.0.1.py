@@ -1,6 +1,8 @@
 #Проприетарное ПО
 #Версия 2.0.1
 
+#fjslakjfldasjklfjkasljkfl;asdjl;fjkdl;asjkfkl;d
+
 from tkinter import *
 import threading
 import math
